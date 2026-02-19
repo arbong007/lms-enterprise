@@ -1,0 +1,1 @@
+# LMS Enterprise\n\nDeploy-ready LMS for Supabase + Vercel.

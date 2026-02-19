@@ -1,0 +1,1 @@
+insert into tenants values (gen_random_uuid(), 'Default');

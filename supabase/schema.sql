@@ -1,0 +1,1 @@
+create table tenants(id uuid primary key, name text);
