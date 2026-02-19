@@ -1,1 +1,2 @@
-module.exports = { reactStrictMode: true }
+/// <reference types="next" />
+/// <reference types="next/types/global" />
